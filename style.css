@@ -176,7 +176,7 @@ button:hover {
     text-align: center;
     padding: 0.8em 0.8em;
     line-height: 20px;
-    /* margin: 0 0 0 0.2em; */
+    margin: 0 0 0 0.3em;
     color: #000d6e;
 } 
 .box1 {
@@ -513,7 +513,7 @@ font-size: 1.5em;
 
 
 .card {
-    width: 400px;
+    width: 350px;
     border-top: 5px solid #000256;
     height: 210px;
     border-radius: 10px;
@@ -521,12 +521,12 @@ font-size: 1.5em;
     margin-top: 60px;
 }
 .card img {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     border: 1px solid #000265;
     margin-left: 105px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .card h4 {
     margin-left: 90px;
@@ -546,7 +546,7 @@ font-size: 1.5em;
     width: 63%;
 }
 .big_card {
-    width: 100%;
+    width: 87%;
 }
 .news {
     text-align: center;
